@@ -1,0 +1,121 @@
+AI Content Marketing using UGC Ads
+
+🔍 About the Task
+Today’s brands don’t win with polished ads.
+They win with UGC-style content — ads that feel real, raw, and human.
+
+User Generated Content (UGC) ads:
+
+look like normal Instagram videos
+sound like honest customer opinions
+outperform traditional ads in conversions
+That’s why:
+
+D2C brands
+local businesses
+creators
+marketing agencies
+are actively hiring people who can create UGC ad scripts using AI.
+
+In this task, you will build a prompt system that generates high-converting UGC ad content, the same way real content marketing agencies work.
+
+This is paid ad content creation.
+
+🎯 Objective
+Your goal is to create AI-powered prompts that can:
+
+Generate short UGC-style ad scripts
+Create multiple hooks for the same product
+Follow proven ad frameworks (problem → solution → CTA)
+Adapt tone for different platforms and brands
+Produce content ready for Instagram Reels, Ads & Shorts
+🏷️ Choose a Real Product or Business (Mandatory)
+To keep this 100% real-world, you must choose one real product or business, such as:
+
+a D2C product (skincare, fitness, gadgets)
+a local business (salon, cafe, gym, clinic)
+a creator brand
+a SaaS tool
+Example:
+
+“UGC ads for a local salon in Bangalore”
+“UGC ads for a skincare brand selling online”
+
+Your content should feel like it can be directly used in ads.
+
+🛠️ Tools You’ll Use
+🤖 AI & Prompt Tools
+ChatGPT – https://chat.openai.com
+Claude – https://claude.ai
+Google Gemini – https://gemini.google.com
+🎥 (Optional) Video Inspiration / Creation Tools
+CapCut – https://www.capcut.com
+Runway – https://runwayml.com
+Pika Labs – https://pika.art
+✨ Key Features Your System Must Show
+✔ Authentic UGC tone (not salesy)
+✔ Multiple hooks for one product
+✔ Clear conversion intent
+✔ Platform-specific content
+✔ Reusable prompt structure for multiple brands
+
+📤 Final Deliverable
+You must submit:
+
+A UGC Ad Content Pack, including:
+multiple hooks
+ad scripts
+CTAs
+captions (optional)
+A public GitHub repository with:
+structured prompts
+generated outputs
+clear documentation
+Your work should look ready to send to:
+
+a marketing agency
+a brand founder
+a paid client
+📸 Mandatory Social Sharing (Important)
+After completing this task:
+
+1️⃣ Post your UGC ad scripts or mockups on Instagram
+2️⃣ Explain briefly:
+
+what product you chose
+what problem the ad solves
+3️⃣ Tag us on Instagram:
+👉 @future_interns
+🔗 https://www.instagram.com/future_interns/
+
+This helps:
+
+showcase your work
+build confidence
+grow your visibility
+💰 Learn & Earn Opportunity
+This task can directly lead to paid work.
+
+You can:
+
+approach local businesses
+pitch UGC ad script packages
+offer monthly content support
+Many brands pay per ad script or per campaign.
+
+✅ Why This Task Is High-Value
+UGC ads are high-demand skills
+Used by real agencies
+Directly monetizable
+Perfect for:
+Prompt Engineers
+Content Marketers
+AI Marketing Specialists
+Showcase Your Work
+After completion:
+
+Share screenshots or snippets on LinkedIn
+Explain:
+business type
+problem solved
+how AI helped
